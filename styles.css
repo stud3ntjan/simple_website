@@ -12,6 +12,7 @@ header {
     padding: 10px;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+
 }
 
 section {
@@ -27,6 +28,9 @@ section {
     border: 1px solid #ccc;
     padding: 10px;
     border: solid 2px darkviolet;
+    margin: auto;
+    display: block;
+    text-align: center;
 }
 
 .range {
@@ -62,5 +66,13 @@ img {
     width: 120px;
     height: 100px;
     border: solid 2px;
+    margin: auto;
+    display: block;
+}
+
+.head {
+    margin: auto;
+    display: block;
+    text-align: center;
 
 }
