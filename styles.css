@@ -2,6 +2,8 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
+    background-color: lightblue;
+    color: black;
 }
 
 header {
@@ -9,6 +11,7 @@ header {
     color: #fff;
     padding: 10px;
     text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 section {
@@ -18,7 +21,49 @@ section {
 }
 
 .box {
-    background-color: #f0f0f0;
+    font-family: lucida console;
+    font-weight: bold;
+    background-color: plum;
     border: 1px solid #ccc;
     padding: 10px;
+    border: solid 2px darkviolet;
+}
+
+.range {
+border: solid 2px black;
+border-radius: 5px 5px 5px 5px;
+display: inline;
+
+}
+
+.checkbox {
+    border: solid 2px black;
+    border-radius: 5px 5px 5px 5px;
+    display: inline;
+    
+
+}
+
+.date {
+    border: solid 2px black;
+    border-radius: 5px 5px 5px 5px;
+    display: inline;
+    
+}
+
+.color {
+    border: solid 2px black;
+    border-radius: 5px 5px 5px 5px;
+    display: inline;
+    
+}
+
+img {
+width: 120px;
+height: 100px;
+border: solid 2px;
+
+
+
+
 }
