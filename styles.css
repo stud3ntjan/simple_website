@@ -30,9 +30,9 @@ section {
 }
 
 .range {
-border: solid 2px black;
-border-radius: 5px 5px 5px 5px;
-display: inline;
+    border: solid 2px black;
+    border-radius: 5px 5px 5px 5px;
+    display: inline;
 
 }
 
@@ -40,7 +40,7 @@ display: inline;
     border: solid 2px black;
     border-radius: 5px 5px 5px 5px;
     display: inline;
-    
+
 
 }
 
@@ -48,22 +48,19 @@ display: inline;
     border: solid 2px black;
     border-radius: 5px 5px 5px 5px;
     display: inline;
-    
+
 }
 
 .color {
     border: solid 2px black;
     border-radius: 5px 5px 5px 5px;
     display: inline;
-    
+
 }
 
 img {
-width: 120px;
-height: 100px;
-border: solid 2px;
-
-
-
+    width: 120px;
+    height: 100px;
+    border: solid 2px;
 
 }
